@@ -7,3 +7,9 @@ var usersSchema = require('../schemas/users');
 module.exports=mongoose.model('User',usersSchema);
 
 var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
