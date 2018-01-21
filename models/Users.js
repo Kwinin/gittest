@@ -13,4 +13,13 @@ module.exports=mongoose.model('User',usersSchema);
 
 var usersSchema = require('../schemas/users');
 
+
 /**我是主线**/
+
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+var usersSchema = require('../schemas/users');
+
